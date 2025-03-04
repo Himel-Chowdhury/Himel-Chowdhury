@@ -6,7 +6,8 @@
 ## 📬 **Let's Connect!**   
 📧 **Email:**himuchy332@gmail.com
 🔗 **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/himel-chowdhury-6965891a7/))  
-📄 **Resume:** [View My Resume](https://your-resume-link.com) 
+📄 **Resume:** [View My Resume]([Himel Chowdhury Resume.pdf])
+)) 
 
 ---
 
