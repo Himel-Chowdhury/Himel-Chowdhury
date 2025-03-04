@@ -1,7 +1,10 @@
-## Hi, I'm Himel Chowdhury! 👋  
+## Hi 👋, I'm Himel Chowdhury!   
+
+---
 💼 Currently working as a **Management Trainee Officer (Industrial Engineering)** at KDS IDR LTD  
 
-💡 **Data Analyst | Business Intelligence | SQL | Power BI | Python**  
+## 📬 **Let's Connect!**   
+📧 How to reach me: himuchy332@gmail.com & LinkedIn
 
 ---
 
@@ -44,10 +47,7 @@
 
 ---
 
-## 📬 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/himel-chowdhury-6965891a7/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/Himel-Chowdhury)  
-📧 Email: [himuchy332@gmail.com](mailto:himuchy332@gmail.com)  
+
 
 ---
 
