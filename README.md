@@ -1,13 +1,12 @@
-# Hi, I'm Himel Chowdhury! 👋  
+## Hi, I'm Himel Chowdhury! 👋  
+💼 Currently working as a **Management Trainee Officer (Industrial Engineering)** at KDS IDR LTD  
 
 💡 **Data Analyst | Business Intelligence | SQL | Power BI | Python**  
-📊 Passionate about transforming data into meaningful insights  
 
 ---
 
 ## 🔍 **About Me**  
 🎓 Bachelor's in Computer Science & Engineering (Port City International University)  
-💼 Currently working as a **Management Trainee Officer (Industrial Engineering)** at KDS IDR LTD  
 📅 Certification in **Data Analytics & Business Intelligence (2024)**  
 
 ---
