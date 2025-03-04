@@ -1,10 +1,14 @@
-## Hi 👋, I'm Himel Chowdhury!   
+# Hi 👋, I'm Himel Chowdhury!   
 
 ---
 💼 Currently working as a **Management Trainee Officer (Industrial Engineering)** at KDS IDR LTD  
 
 ## 📬 **Let's Connect!**   
-📧 How to reach me: himuchy332@gmail.com & LinkedIn
+📧 How to reach me: himuchy332@gmail.com 
+
+- 📧 **Email:** [dipradas5940@gmail.com](mailto:dipradas5940@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- 📄 **Resume:** [View My Resume](https://your-resume-link.com) 
 
 ---
 
