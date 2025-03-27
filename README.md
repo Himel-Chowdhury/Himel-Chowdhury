@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himel Chowdhury</h1>
 <h3 align="center">Management Trainee Officer (Industrial Engineering) at KDS IDR LTD</h3>
 
+A passionate Data Analyst with expertise in Power BI, SQL, Python, and data visualization. My repositories feature interactive dashboards, data-driven insights, and analytical solutions that enhance business performance and decision-making.
+I enjoy working with real-world data to uncover meaningful trends, optimize processes, and drive strategic growth through analytics.
+
 <img align="right" alt="analyst" width="400" src="https://github.com/user-attachments/assets/17615793-f27d-4461-bcb1-ca01667ec3b3">
 
 
