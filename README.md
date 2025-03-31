@@ -10,7 +10,9 @@
 
 - ⚡ Fun fact **I am funny😅**
 - 🔭 I’m currently working on **KDS IDR LTD**
+- 👨‍💻 All of my projects are available at (https://www.linkedin.com/in/himel-chowdhury9/)
 - 📫 How to reach me **himuch332@gmail.com**
+- About Me https://drive.google.com/file/d/1v98SC8hvODYs6O3DyaZdwX6w3GEIJK3s/view?usp=drive_link
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Bo1o1L8pItETyaB-IcyzhbsNruzjXDE8/view?usp=drive_link)
 
