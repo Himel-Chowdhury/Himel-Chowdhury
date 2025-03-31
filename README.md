@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himel Chowdhury</h1>
 <h3 align="center">Management Trainee Officer (Industrial Engineering) at KDS IDR LTD</h3>
 
-"I am a passionate Data Analyst with expertise in Power BI, SQL, Python, and Data Visualization. I thrive on working with real-world data to uncover meaningful trends, streamline processes, and drive strategic growth through impactful analytics."
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="himel-chowdhury" /> </p>
 
